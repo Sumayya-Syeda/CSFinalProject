@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798372096633",
+    "firebase_url": "https://cougarcalendar-c5e84.firebaseio.com",
+    "project_id": "cougarcalendar-c5e84",
+    "storage_bucket": "cougarcalendar-c5e84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798372096633:android:dcf6be2b3b5e8ed9",
+        "android_client_info": {
+          "package_name": "com.example.school.cougarcalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798372096633-3m925molm4kh6c7i2b8ddfo6nafp1cbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBksHUB0vEZGC_tcgEH0eWe2_tbGwD4NGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798372096633-3m925molm4kh6c7i2b8ddfo6nafp1cbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
