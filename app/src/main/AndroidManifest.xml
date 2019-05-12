@@ -11,11 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AccountActivity.ResetPasswordActivity"></activity>
-        <activity android:name=".AccountActivity.SignupActivity" />
-        <activity android:name=".AccountActivity.LoginActivity" />
-        <activity android:name=".MainActivity" />
-        <activity android:name=".assignments">
+
+        <activity android:name=".AccountActivity.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -23,6 +20,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".AddClassActivityActivity" />
+        <activity android:name=".AccountActivity.ResetPasswordActivity"></activity>
+        <activity android:name=".AccountActivity.SignupActivity" />
+        <activity android:name=".MainActivity" />
+
     </application>
 
 </manifest>
